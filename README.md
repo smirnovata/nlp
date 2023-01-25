@@ -9,4 +9,4 @@ correlation between word usage and estimated ranking.
 ## Research
 * report - 225390_Smirnova Tatiana_NLP_report.pdf
 * jupiter notebook - 225390_Smirnova Tatiana_NLP_project.ipynb
-* "dataset" folder with metrics value (https://www.kaggle.com/datasets/mikhailklemin/kinopoisks-movies-reviews)
+* dataset: https://www.kaggle.com/datasets/mikhailklemin/kinopoisks-movies-reviews
